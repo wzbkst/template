@@ -133,11 +133,11 @@
             <artifactId>jcl-over-slf4j</artifactId>
             <version>${jcl-over-slf4j.version}</version>
         </dependency>
-        <dependency>
-            <groupId>org.sf4j</groupId>
-            <artifactId>jul-to-slf4j</artifactId>
-            <version>${jul-to-slf4j.version}</version>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>org.sf4j</groupId>-->
+            <!--<artifactId>jul-to-slf4j</artifactId>-->
+            <!--<version>${jul-to-slf4j.version}</version>-->
+        <!--</dependency>-->
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>log4j-over-slf4j</artifactId>
